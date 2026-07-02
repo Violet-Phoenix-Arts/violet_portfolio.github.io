@@ -1,0 +1,126 @@
+body {
+  background-image: url('img/background.jpg');
+}
+
+.highlight {
+  background-color: transparent;
+  display: inline;
+}
+
+.middle-txt {
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: "Times New Roman", Times, sans-serif;
+    padding-top: 10px;
+    color: white;
+}
+
+.middle-txt-p {
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: "Times New Roman", Times, sans-serif;
+    padding-top: 10px;
+    color: black;
+    font-size: larger;
+}
+
+.img-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 150px;
+}
+
+.gallery-item {
+    margin: auto;
+    border: 1px solid black;
+    width: 250px;
+    background-color: white;
+}
+
+.gallery-item-h {
+    margin: auto;
+    border: 1px solid black;
+    width: 445px;
+    background-color: white;
+}
+
+.gallery-item-h2 {
+    margin: auto;
+    border: 1px solid black;
+    width: 407px;
+    background-color: white;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+
+}
+
+.gallery-img {
+  width: 100%;
+  height: auto;
+}
+
+.wild-img {
+  padding-left: 37.5%;
+  width: 25%;
+  height: auto;
+}
+
+.wild-vid {
+  padding-left: 30%;
+  width: 40%;
+  height: auto;
+}
+
+.wild-img-h {
+  padding-left: 30%;
+  width: 40%;
+  height: auto;
+}
+
+.writing {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.options {
+  display: flex;
+}
+
+.gallery-item-t {
+    margin: auto;
+    border: 1px solid black;
+    width: 300px;
+    background-color: white;
+}
+
+.gallery-img-t {
+  width: 100%;
+  height: auto;
+}
+
+.middle-txt-a {
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: "Times New Roman", Times, sans-serif;
+  padding-top: 10px;
+  color: white;
+  display: block;
+  font-style: italic;
+}
+
+.poem-back {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: white;
+  border: 1px solid black;
+}
+
+a:visited {
+  color: orange;
+}
+
